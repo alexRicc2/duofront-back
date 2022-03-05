@@ -1,1 +1,1 @@
-git@github.com:alexRicc2/duofront-back.git
+back da duo feito em laravel
